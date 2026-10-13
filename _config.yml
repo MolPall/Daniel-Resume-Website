@@ -1,11 +1,11 @@
 # Configs
 
-title: "Victor E. Huskie"
-name: "Victor E. Huskie's Portfolio in Jekyll"
-email: 
-url: "https://71north.github.io"
-baseurl: "/jekyll-resume-template"
-repository: "71NORTH/jekyll-resume-template"
+title: "Daniel A. Ingram"
+name: "Daniel A. Ingram's Portfolio in Jekyll"
+email: "dman8159@gmail.com"
+url: "https://MolPall.github.io"
+baseurl: "/Daniel-Resume-Website"
+repository: "MolPall/Daniel-Resume-Website"
 header:
   image: /assets/images/banner-husky.jpg
 
@@ -37,10 +37,10 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Victor E. Huskie"
+  name   : "Daniel A. Ingram"
   avatar : "/assets/images/victor-avatar.jpg"
-  bio    : "Official costumed mascot of Northern Illinois University. Go Huskies!"
-  location: "DeKalb, Illinois"
+  bio    : "Engineering Thenoligy student at Norther Illinois University. Asspiering machine shop owner. "
+  location: "Chicago, Illinois"
 
 
 # # comments by disqus
